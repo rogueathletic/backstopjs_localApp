@@ -1,0 +1,30 @@
+{
+  "name": "backstopjs_localapp",
+  "version": "1.0.0",
+  "description": "regression testing package app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogueathletic/backstopjs_localApp.git"
+  },
+  "keywords": [
+    "backstopjs",
+    "regression",
+    "testing",
+    "multi",
+    "device"
+  ],
+  "author": "jason schutz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogueathletic/backstopjs_localApp/issues"
+  },
+  "homepage": "https://github.com/rogueathletic/backstopjs_localApp#readme",
+  "dependencies": {
+    "backstopjs": "^4.3.2",
+    "jquery": "^3.4.1"
+  }
+}
