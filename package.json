@@ -25,6 +25,6 @@
   "homepage": "https://github.com/rogueathletic/backstopjs_localApp#readme",
   "dependencies": {
     "backstopjs": "^4.3.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
